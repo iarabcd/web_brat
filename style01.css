@@ -1,0 +1,45 @@
+body{
+    width: 100%;/*largura do body*/
+    height: 300px;/*altura do body*/
+    background-color: black;/*cor do fundo*/
+}
+ header, nav, section, footer/*editando outros elementos*/{
+    width: 100%;
+    height: 200px;
+    margin: 10px; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;/*colocar fonte*/ 
+}
+header{
+    width: 100%;
+}
+
+/*as cores devem ser selecionadas individualmente*/
+header{
+background-color: #8ace00; 
+text-align: center;/*centralizar o texto*/
+}
+nav{
+    background-color: #8ace00;
+}
+section{
+    background-color: #8ace00;
+}
+footer{
+    background-color: #8ace00;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 5px; /*colocar margem entre texto*/
+}
+/*para colocar cor*/
+h1, h2, h3, h4, h5, h6{
+    color: #17202a
+}
+h1{
+    
+}
+
+ ul li{
+    float : left;/*deixar na horizontal*/
+    list-style: none;
+    margin: 10px;/*importante colocar margem para os itens não ficarem grudados*/
+}
