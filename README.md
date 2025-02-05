@@ -1,2 +1,2 @@
 # web_brat
-fanmade site made for queen charli xcx. also my first time making a site. remembered some stuff about coding and also learned about making websites, expecially about layout and links.
+website inspired by the british pop star charli xcx's latest album brat. also my first time making a site. remembered some stuff about coding and also learned about making websites, expecially about layout and links.
